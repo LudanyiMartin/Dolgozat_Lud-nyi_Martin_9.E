@@ -1,0 +1,70 @@
+.nagyszov{
+    width: 960px;
+    height: 2600px;
+    padding: 30px;
+    background-color: lightblue;
+    margin-left: 450px;
+    
+}
+body{
+    text-align: justify;
+    background-color: grey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    text-align: center;
+    font-weight: bold;
+
+    border-bottom: 6px darkblue double;
+}
+h2{
+    text-transform: uppercase;
+    font-weight: bold;
+    color: darkblue;
+    border-top: 2px solid darkblue;
+    border-bottom: 2px dotted darkblue;
+    margin-right: 40%;   
+}
+.kep1{
+    float: right;
+    width: 190px;
+    margin-left: 20px;
+    border: 6px solid darkblue; 
+}
+ul{
+    list-style-image: url('img/kukac.png');
+    margin-left: 65px;
+}
+.kep2{
+    float: right;
+    width: 190px;
+    margin-left: 30px;
+    border: 6px solid darkblue; 
+}
+.kep3{
+    width: 140px;
+    border: 6px solid darkblue;
+    margin-left: 30px;
+    float: right; 
+}
+.kep4{
+    border: 6px solid darkblue;
+    width: 160px;
+    float: left;
+    margin-right: 20px;
+    
+}
+.kep5{
+    float: left;
+    width: 170px;
+    margin-right: 20px;
+    border: 6px solid darkblue;
+    margin-bottom: 30px;
+}
+.forras{
+    font-style: italic;
+    margin-left: 500px;
+}
+a:hover{
+    color: darkblue;
+}
